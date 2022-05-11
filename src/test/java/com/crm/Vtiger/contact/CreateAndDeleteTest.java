@@ -5,10 +5,12 @@ import org.testng.annotations.Test;
 public class CreateAndDeleteTest 
 {
 	@Test(groups = {"smoketesting"})
-	public void createcontactTest() 
+	public void createcontactTest() { 
 	//its a practice script
+
 	//its a practice script77
-	{
+
+	//its a practise script222
 		System.out.println("createcontactTest");
 	}
 	@Test(groups = {"regresiontesting"})
