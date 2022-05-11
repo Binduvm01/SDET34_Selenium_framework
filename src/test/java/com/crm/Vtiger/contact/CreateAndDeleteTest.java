@@ -7,6 +7,7 @@ public class CreateAndDeleteTest
 	@Test(groups = {"smoketesting"})
 	public void createcontactTest() 
 	//its a practice script
+	//its a practise script222
 	{
 		System.out.println("createcontactTest");
 	}
