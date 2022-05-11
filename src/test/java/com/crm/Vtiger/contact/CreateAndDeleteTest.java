@@ -15,6 +15,8 @@ public class CreateAndDeleteTest
 	public void modifycontactTest() 
 	{
 		System.out.println("modifycontactTest");
+		System.out.println("modifycontactTest");
+		//System.out.println("modifycontactTest");
 	}
 	@Test(groups = "regressiontesting")
 	public void deletecontactTest() 
